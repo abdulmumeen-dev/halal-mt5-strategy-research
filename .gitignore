@@ -1,0 +1,7 @@
+# Python artifacts and secrets
+.venv/
+__pycache__/
+reports/
+*.ex5
+*.log
+.env
