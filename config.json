@@ -1,0 +1,19 @@
+{
+  "ema_fast": 20,
+  "ema_slow": 50,
+  "atr_period": 14,
+  "adx_period": 14,
+  "adx_min": 18.0,
+  "atr_stop_multiple": 1.8,
+  "reward_risk": 1.5,
+  "risk_per_trade": 0.005,
+  "max_bars_in_trade": 12,
+  "session_start_utc": 7,
+  "session_end_utc": 16,
+  "flat_before_session_end_minutes": 30,
+  "max_daily_loss_fraction": 0.02,
+  "max_drawdown_fraction": 0.08,
+  "assumed_spread_points": 18,
+  "point_size": 0.00001,
+  "pip_value_per_unit": 0.00001
+}
